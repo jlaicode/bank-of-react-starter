@@ -53,7 +53,7 @@ class LogIn extends Component {
           </div>
           <div>
             <label>Password</label>
-            <input type="password" name="password" />
+            <input type="password" name="password" placeholder="----- INPUT NOT USED -----" />
           </div>
           <button>Log In</button>
         </form>  
